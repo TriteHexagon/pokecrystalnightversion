@@ -21,7 +21,6 @@ INCLUDE "audio/music/darkcave.asm"
 INCLUDE "audio/music/johtogymbattle.asm"
 INCLUDE "audio/music/championbattle.asm"
 INCLUDE "audio/music/ssaqua.asm"
-INCLUDE "audio/music/newbarktown.asm"
 INCLUDE "audio/music/goldenrodcity.asm"
 INCLUDE "audio/music/vermilioncity.asm"
 INCLUDE "audio/music/titlescreen.asm"
@@ -139,6 +138,10 @@ INCLUDE "audio/music/mobileadapter.asm"
 SECTION "Extra Songs 2", ROMX
 
 INCLUDE "audio/music/postcredits.asm"
+
+SECTION "Altered Songs", ROMX
+
+INCLUDE "audio/music/newbarktown.asm"
 
 
 SECTION "Sound Effects", ROMX
